@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+body {
+    background-color:lightsalmon;
+    margin: 8px;
+    display: block;
+}
+
+p {
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+}
+
+.funParagraph{
+    color: green;
+}
